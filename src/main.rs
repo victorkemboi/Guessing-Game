@@ -1,3 +1,6 @@
+mod scripts;
+
 fn main() {
-    println!("Hello, world!");
+    // println!("Hello, world!");
+    scripts::func::say_hello();
 }
