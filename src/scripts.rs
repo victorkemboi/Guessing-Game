@@ -1,1 +1,1 @@
-pub(crate) mod func;
+pub(crate) mod guessing_game;

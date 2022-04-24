@@ -1,6 +1,5 @@
 mod scripts;
 
 fn main() {
-    // println!("Hello, world!");
-    scripts::func::say_hello();
+    scripts::guessing_game::guessing_game(1,10)
 }
