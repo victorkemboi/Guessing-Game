@@ -13,3 +13,9 @@ number within a range.
 - Run the game:
 
         ./target/debug/guessing_game
+
+
+
+## Sample
+
+![Sample trial](./sample/images/guessing_game_sample.png)
